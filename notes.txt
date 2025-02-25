@@ -1,0 +1,3 @@
+Initial notes 
+More details about the project
+Additional improvements in the documentation
